@@ -1,0 +1,5 @@
+#These websites should not be blocked
+#but I block these as I can't type
+
+www.cloudapple.com
+norstroms.com
