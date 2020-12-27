@@ -1,0 +1,35 @@
+#Domains Blacklisted
+
+best2019-games-web4.com
+bivouacs.tk
+briefext.com
+bronewlook.com
+clickedjoin.com
+delightfulold.com
+fertilizeranaemiaupcoming.com
+fiefionfortes.casa
+fixfreegreatlyplayer.icu
+installswiftcompletelyapplication.icu
+jincloude.com
+lauhoosh.net
+norstroms.com
+operateoriginalheavilyapplication.icu
+performoverlyoriginalapplication.icu
+performsophisticateduberapplication.icu
+redlele.com
+tapixesa.pro
+thebandbajaasfa.online
+verifyclicksolutions.com
+www.americascardroom.eu
+www.winningpokernetwork.com
+www.cloudapple.com #due to similar hostname
+boot-updeveloped-theheavilyfile.best
+engel-eva.com
+mineloud.com
+softwaresecuritypro.com
+thelatestfile.best
+www.boot-updeveloped-theheavilyfile.best
+www.engel-eva.com
+www.mineloud.com
+www.softwaresecuritypro.com
+www.thelatestfile.best
